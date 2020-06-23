@@ -4,3 +4,23 @@
 ![登录界面](https://github.com/teng8/CaptialMangementSystem/blob/master/IMG-Storage/1.png)
 ![主页](https://github.com/teng8/CaptialMangementSystem/blob/master/IMG-Storage/2.png)
 ![操作主页](https://github.com/teng8/CaptialMangementSystem/blob/master/IMG-Storage/3.png)
+**运行方式**
+1. 在client目录下加入依赖
+
+```javascript
+npm insatll
+```
+
+ 2. 在项目根目录下加入依赖
+ 
+```javascript
+npm insatll
+```
+ 3. 在项目目录下打开终端，输入以下代码
+```javascript
+nodemon server.js
+```
+ 4. 在client目录下打开终端，输入以下代码
+```javascript
+npm run serve
+```
